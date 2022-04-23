@@ -1,0 +1,321 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.floatLeft {
+  float: left;
+}
+
+header {
+  width: 100%;
+  height: 200px;
+}
+
+.let-us-know {
+  color: #0B8B00;
+}
+
+.drop-down {
+  font-size: .25%;
+  color: #9B9B9B;
+}
+
+.drop-down a:link {
+  color: white;
+}
+
+.right-bottom {
+  clear: float;
+}
+
+.right-bottom input {
+  margin-left: 4px;
+  padding: 1.5%;
+  font-size: 18px;
+  font-weight: 700;color: #0B8B00;
+}
+
+.logo {
+  float: left;
+  width: 20%;
+}
+
+.leftMenue {
+  float: left;
+  width: 40%;
+}
+
+.leftMenue li {
+  float: left;
+  width: 20%;
+  list-style: none;
+  margin-left: -18px;
+}
+
+.leftMenue a:link {
+  text-decoration: none;
+  color: #5E5E53;
+  font-size: 158%;
+  margin-left: 5%;
+}
+
+.leftMenue a:visited {
+  color: #5E5E53;
+}
+
+.leftMenue a:hover {
+  color: aqua;
+}
+
+.leftMenue a:active {
+  color: lightskyblue;
+}
+
+.rightMenue {
+  float: left;
+  width: 40%;
+  color: #CFCFCF;
+}
+
+.rightMenue span {
+    float: left;
+    font-size: 162%;
+    margin-left: 10%;
+    margin-right: 2%;
+    margin-top: 2%;
+}
+
+.rightMenue img {
+  width: 8%;
+  margin-right: 1.25%;
+  margin-bottom: 28px;
+}
+
+.right-bottom a:link {
+    color: white;
+    padding: 10px;
+    background: #363B36;
+    border: none;
+    font-weight: 400;
+}
+
+.right-bottom a:visited {
+  color: white;
+}
+
+.callout {
+  width: 100%;
+  height: 80px;
+  border: 1px solid black;
+  background: #0B8B00;
+  float: left;
+  color: white;
+} 
+
+.callout div {
+  margin-left: 23.75%;
+    margin-right: 15%;
+}
+
+.callout span {
+  font-size: 20px;
+}
+
+.callout h3 {
+  float: left;
+  font-size: 25px;
+  margin-right: 10px;
+  margin-top: 8px;
+}
+
+.callout p {
+  font-size: 18px;
+  padding-top: 13px;
+}
+
+.callout a {
+  float: left;
+  margin-top: -39px;
+  margin-left: 502px;
+  font-weight: 700;
+}
+
+.callout a:visited {
+  color: white;
+}
+
+.callout a:hover {
+  color: aqua;
+}
+
+.callout a:active {
+  color: lightskyblue;
+}
+
+.callout a:link {
+  text-decoration: none;
+  color: white;
+}
+
+main {
+  float: left;
+  width: 75%;
+  height: 600px;
+}
+
+.right img {
+  width: 100%;
+  margin-bottom: 13px;
+  margin-left: 10px;
+}
+
+main .right, .left {
+  width: 65%;
+  height: 600px;
+}
+
+.right p {
+  font-size: 23px;
+  color: #A8A79C;
+  margin-left: 10px;
+  font-family: 'Lato', 'Roboto' sans-serif;
+  font-style: italic; 
+  font-weight: 400;
+}
+
+main .left {
+  width: 33%;
+  margin-left: 2%;
+}
+
+.left {
+  float: left;
+  float: left;
+}
+
+.left h4 {
+  color: #5E5E53;
+  font-size: 158%;
+  margin-bottom: -8%;
+  margin-top: 4%;
+}
+
+.left h5 {
+  color: #5E5E53;
+    font-size: 158%;
+    margin-bottom: 0%;
+    font-weight: 400;
+    padding: 5%;
+    margin-left: 180px;
+}
+
+.left span {
+  color: #A8A79C;
+  float: left;
+  margin-left: 22px;
+}
+
+.shorts-imgs {
+  width: 40%;
+  clear: both;
+  margin-top: 15px;
+}
+
+.newsletter {
+  float: left;
+  width: 25%;
+  height: 715px;
+  background: #E9E9E9;
+}
+.newsletter ul {
+  list-style-type: none;
+  background: white;
+  border: 1px solid #E9E9E9;
+  margin-left: 5%;
+  padding-bottom: 21px;
+} 
+
+.newsletter h4 {
+  border-top: 7px solid #CFCFCF;
+    border-bottom: 7px solid #CFCFCF;
+    margin: 10px;
+    padding: 20px;
+    color: #5E5E53;
+    font-size: 158%;
+    margin-left: 5%;
+}
+
+.newsletter h4 span {
+  color: #0B8B00;
+}
+
+.newsletter h6, .newsletter p {
+  margin-left: 31px;
+  margin-top: -21px;
+  font-size: 20px;
+}
+.newsletter p {
+  margin-top: -39px;
+  color: #E9E9E9;
+  font-size: 16px;
+}
+
+.newsletter section h5 {
+  text-align: center;
+  background: #114100;
+  color: white;
+  padding: 20px;
+  margin-left: 5%;
+  font-size: 141%;
+  margin-top: 5%;
+}
+
+.newsletter li {
+  margin-top: 15px;
+  border-bottom: 1px solid #CFCFCF;
+  margin-left: -10%;
+  padding-left: 3%;
+}
+
+.newsletter-button {
+  color: white;
+  padding: 10px;
+  background: #0B8B00;
+  border: none;
+}
+
+.newsletter .liform {
+  border-bottom: 0px;
+  margin-bottom: 18px;
+  margin-left: 10%;
+  margin-top: 34px;
+}
+
+.newsletter-input {
+  padding: 8px;
+  margin-right: -5px;
+}
+
+.seenewsletters {
+  padding: 28px;
+  font-size: 18px;
+}
+
+.see-news-arrow {
+  color: #0B8B00; 
+}
+
+.newslettertext {
+  margin-top: 4%;
+}
+
+img {
+  width: 20%;
+  float: left;
+}
