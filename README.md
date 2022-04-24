@@ -1,4 +1,4 @@
-# techCrunch Website Replica
+# TechCrunch Website Replica
 
 A recreation of a technology website. The object of this project was to get the website to look as close to the reference website as possible. 
 
