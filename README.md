@@ -4,7 +4,7 @@ A recreation of a technology website. The object of this project was to get the 
 
 **Link to project:** https://henryleestudio.github.io/techcrunch-replica/
 
-![techcrunch-mockup-cropped](https://user-images.githubusercontent.com/101936420/164997706-e945c955-7729-41bd-bc8d-756c722f89b7.png)
+![henryleestudio github io_techcrunch-replica_ (1)](https://user-images.githubusercontent.com/101936420/164997982-7c375960-6ec0-4356-a8f5-c2680734b76e.png)
 
 **Project Attributes:** HTML | CSS | Photoshop CC | Website Replication
 
